@@ -1,0 +1,4 @@
+pygal
+requests
+pymongo
+bson
